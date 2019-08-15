@@ -1,8 +1,8 @@
 import { TYPES } from '../src/constants';
-import { Asset, Money } from '@waves/data-entities';
-import { BigNumber } from '@waves/data-entities/dist/libs/bignumber';
+import { Asset, Money } from '@bancoin/data-entities';
+import { BigNumber } from '@bancoin/bignumber';
 import { TWavesGuiEntity } from '../src/toNodeEntities';
-import { TTransaction } from '@waves/ts-types';
+import { TTransaction } from '@bancoin/ts-types';
 import { TWithPartialFee } from '../src/types';
 
 export const WAVES_ASSET = new Asset({

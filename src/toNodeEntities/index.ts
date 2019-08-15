@@ -11,7 +11,7 @@ import { setAssetScript, IWavesGuiSetAssetScript } from './setAssetScript';
 import { setScript, IWavesGuiSetScript } from './setScript';
 import { sponsorship, IWavesGuiSponsorship } from './sponsorship';
 import { transfer, IWavesGuiTransfer } from './transfer';
-import { IExchangeTransactionOrderWithProofs, TTransaction, TTransactionMap } from '@waves/ts-types';
+import { IExchangeTransactionOrderWithProofs, TTransaction, TTransactionMap } from '@bancoin/ts-types';
 import { TYPES } from '../constants';
 import { TWithPartialFee } from '../types';
 import { isOrder } from '../utils';

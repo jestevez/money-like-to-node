@@ -1,7 +1,7 @@
 import { TEST_DATA } from './transactionData';
 import { toNode, node } from '../src/toNodeEntities';
 import { TYPES } from '../src/constants';
-import { TTransactionType } from '@waves/ts-types';
+import { TTransactionType } from '@bancoin/ts-types';
 
 
 describe('From Waves entity to node', () => {

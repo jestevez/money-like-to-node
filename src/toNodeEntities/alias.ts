@@ -1,5 +1,5 @@
 import { ALIAS, TYPES } from '../constants';
-import { IAliasTransaction } from '@waves/ts-types';
+import { IAliasTransaction } from '@bancoin/ts-types';
 import { factory } from '../core/factory';
 import { getDefaultTransform, IDefaultGuiTx } from './general';
 import { prop, pipe, length, lt, gt } from '../utils';

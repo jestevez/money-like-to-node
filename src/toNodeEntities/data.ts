@@ -1,5 +1,5 @@
 import { TYPES } from '../constants';
-import { DATA_FIELD_TYPE, IDataTransaction, TDataTransactionEntry } from '@waves/ts-types';
+import { DATA_FIELD_TYPE, IDataTransaction, TDataTransactionEntry } from '@bancoin/ts-types';
 import { factory } from '../core/factory';
 import { TLong, TWithPartialFee } from '../types';
 import { getDefaultTransform, IDefaultGuiTx } from './general';

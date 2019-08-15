@@ -1,4 +1,4 @@
-import { ITransaction, TTransactionType } from '@waves/ts-types';
+import { ITransaction, TTransactionType } from '@bancoin/ts-types';
 import { TLong, TMoney, TWithPartialFee } from '../types';
 import { getCoins, pipe, prop } from '../utils';
 import { requiredValidator, validate } from '../validators';

@@ -4,7 +4,7 @@ import {
     IInvokeScriptPayment,
     IInvokeScriptTransaction,
     TInvokeScriptCallArgument
-} from '@waves/ts-types';
+} from '@bancoin/ts-types';
 import { factory } from '../core/factory';
 import { TLong, TMoney, TWithPartialFee } from '../types';
 import { getDefaultTransform, IDefaultGuiTx } from './general';

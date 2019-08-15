@@ -1,5 +1,5 @@
 import { TYPES } from '../constants';
-import { ISetScriptTransaction } from '@waves/ts-types';
+import { ISetScriptTransaction } from '@bancoin/ts-types';
 import { factory } from '../core/factory';
 import { getDefaultTransform, IDefaultGuiTx } from './general';
 import { prop } from '../utils';
