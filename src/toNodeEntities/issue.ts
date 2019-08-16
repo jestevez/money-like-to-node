@@ -1,5 +1,5 @@
 import { TYPES } from '../constants';
-import { IIssueTransaction } from '@waves/ts-types';
+import { IIssueTransaction } from '@bancoin/ts-types';
 import { factory } from '../core/factory';
 import { TLong, TWithPartialFee } from '../types';
 import { getDefaultTransform, IDefaultGuiTx } from './general';

@@ -1,4 +1,4 @@
-import { TRANSACTION_TYPE } from '@waves/ts-types';
+import { TRANSACTION_TYPE } from '@bancoin/ts-types';
 
 
 export const TYPES: typeof TRANSACTION_TYPE = {

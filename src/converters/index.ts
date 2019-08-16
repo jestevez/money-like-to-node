@@ -19,7 +19,7 @@ import {
     TDataTransactionEntry,
     IInvokeScriptCall,
     IInvokeScriptTransaction, IInvokeScriptPayment, TInvokeScriptCallArgument
-} from '@waves/ts-types';
+} from '@bancoin/ts-types';
 import { TYPES } from '../constants';
 import { isOrder, map } from '../utils';
 

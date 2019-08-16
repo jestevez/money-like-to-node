@@ -1,5 +1,5 @@
 import { TYPES } from '../constants';
-import { ISponsorshipTransaction } from '@waves/ts-types';
+import { ISponsorshipTransaction } from '@bancoin/ts-types';
 import { factory } from '../core/factory';
 import { TMoney, TWithPartialFee } from '../types';
 import { getDefaultTransform, IDefaultGuiTx } from './general';

@@ -1,5 +1,6 @@
 import { head, getCoins, getAssetId, curry } from '../src/utils';
-import { Money, BigNumber } from '@waves/data-entities';
+import { Money } from '@bancoin/data-entities';
+import { BigNumber } from '@bancoin/bignumber';
 import { WAVES_ASSET } from './transactionData';
 
 
